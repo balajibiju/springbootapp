@@ -3,4 +3,4 @@
 
 - Refer [Create a REST API in Spring Boot with MYSQL](https://medium.com/@andriperera.98/create-a-rest-api-in-spring-boot-with-mysql-b250ff3aaa9b) medium article for more details.
 
-Modified by Balaji
+Mod by Balaji
